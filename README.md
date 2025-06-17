@@ -19,7 +19,15 @@
 ##### Operating System
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
+##### My Stats
+![Blue Sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluesky4047&show_icons=true&theme=transparent)
 
+##### PacMan
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bluesky4047/bluesky4047/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bluesky4047/bluesky4047/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bluesky4047/bluesky4047/output/pacman-contribution-graph.svg">
+</picture>
 <!--
 **bluesky4047/bluesky4047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
