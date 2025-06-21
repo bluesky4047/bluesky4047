@@ -1,4 +1,4 @@
-![bluesky4047](img/gazer.gif)
+![bluesky4047](img/Install.gif)
 
 ## Hello Entity 👋
 ##### I'm Blue Sky as a Junior Developer
